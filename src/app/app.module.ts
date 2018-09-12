@@ -7,6 +7,7 @@ import {TopoComponent} from './topo/topo.component';
 @NgModule({
   declarations: [
     AppComponent,
+//informando o novo módulo criado
     TopoComponent
   ],
   imports: [
